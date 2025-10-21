@@ -9,7 +9,7 @@ Deflationary community token on Kaspa.
 - Max supply: 25 billion
 - Decimals: 8
 - Strategy: annual + milestone burns
-- Liquidity: launched with 220 KAS, expanded monthly
+- Liquidity: launched with 400 KAS, expanded monthly
 
 All files released under CC0 1.0 for transparency and ecosystem use.
 Website - https://cryptotyke.github.io/mambo-the-kitten/
