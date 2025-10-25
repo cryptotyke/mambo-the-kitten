@@ -4,6 +4,7 @@
   "symbol": "KITTEN",
   "standard": "KRC-20",
   "decimals": 6,
+  "image" : "http://raw.githubusercontent.com/cryptotyke/mambo-the-kitten/main/assets/MAMBO_logo.png",
   "total_supply": "1000000000",
  "description": "Mambo The Kitten is a community token inspired by a real kitten named Mambo, born 25 August 2025. Her name comes from the M marking on her head, being our fifth kitten (Mambo No.5), and her two Rambo-like war stripes. The token, launched on her 2-month birthday, explores the Kaspa ecosystem through creativity, transparency, and community rewards for loyal subscribers and supporters.",
   "links": {
