@@ -4,15 +4,14 @@
   "standard": "KRC-20",
   "decimals": 6,
   "total_supply": "1000000000",
-  "description": "Mambo The Kitten is a community meme project founded by Crypto Tyke to explore the Kaspa ecosystem through creativity, transparency, and long-term engagement.",
-  "website": "https://cryptotyke.github.io/mambo-the-kitten/",
+ "description": "Mambo The Kitten is a community token inspired by a real kitten named Mambo, born 25 August 2025. Her name comes from the M marking on her head, being our fifth kitten (Mambo No.5), and her two Rambo-like war stripes. The token, launched on her 2-month birthday, explores the Kaspa ecosystem through creativity, transparency, and community rewards for loyal subscribers and supporters.",
   "links": {
     "twitter": "https://twitter.com/cryptotykeuk",
     "youtube": "https://youtube.com/@cryptotykeuk"
   },
   "wallets": {
-    "founder": "kaspa:xxxxxx", 
-    "burn": "kaspa:yyyyyy"
+    "founder": "kaspa:qpge5qxxjlyw5a6d9eewl0pawajmznktkpkwd787slnzy4wx7sh4cccc7q9x9", 
+    "burn": "kaspa:qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqzvzvyv9t"
   },
   "policy": {
     "minting": "Subscriber-based expansion with proportional airdrops and matching liquidity injections.",
