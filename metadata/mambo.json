@@ -2,22 +2,22 @@
   "name": "Mambo The Kitten",
   "symbol": "MAMBO",
   "standard": "KRC-20",
-  "decimals": 8,
+  "decimals": 6,
   "total_supply": "1000000000",
-  "description": "Mambo The Kitten is a community project founded by Crypto Tyke, based on a real life kitten. It is a deflationary community meme token on Kaspa. 25 billion max supply with milestone and annual burns.",
-  "image": "https://raw.githubusercontent.com/cryptotyke/mambo-the-kitten/main/assets/logo_512.png",
+  "description": "Mambo The Kitten is a community meme project founded by Crypto Tyke to explore the Kaspa ecosystem through creativity, transparency, and long-term engagement.",
   "website": "https://cryptotyke.github.io/mambo-the-kitten/",
   "links": {
-    "x": "https://twitter.com/cryptotykeuk",
-    "youtube": "https://youtube.com/@cryptotyke?si=0x6HC6y7OTkqSIyM"
+    "twitter": "https://twitter.com/cryptotykeuk",
+    "youtube": "https://youtube.com/@cryptotykeuk"
   },
   "wallets": {
-    "founder": "kaspa:qpge5qxxjlyw5a6d9eewl0pawajmznktkpkwd787slnzy4wx7sh4cccc7q9x9",
-    "burn": "kaspa:qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqv9e5e7"
+    "founder": "kaspa:xxxxxx", 
+    "burn": "kaspa:yyyyyy"
   },
   "policy": {
-    "minting": "fixed",
-    "burns": "scheduled + milestone",
-    "migration": "1:1 if future VM/L2 upgrade occurs"
+    "minting": "Subscriber-based expansion with proportional airdrops and matching liquidity injections.",
+    "burns": "Occasional milestone burns to maintain scarcity and reward holders.",
+    "liquidity": "Added gradually in sync with community growth.",
+    "migration": "1:1 if future L1/L2 upgrade occurs."
   }
 }
