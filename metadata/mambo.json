@@ -3,7 +3,7 @@
   "symbol": "MAMBO",
   "standard": "KRC-20",
   "decimals": 8,
-  "total_supply": "25000000000",
+  "total_supply": "1000000000",
   "description": "Mambo The Kitten is a community project founded by Crypto Tyke, based on a real life kitten. It is a deflationary community meme token on Kaspa. 25 billion max supply with milestone and annual burns.",
   "image": "https://raw.githubusercontent.com/cryptotyke/mambo-the-kitten/main/assets/logo_512.png",
   "website": "https://cryptotyke.github.io/mambo-the-kitten/",
